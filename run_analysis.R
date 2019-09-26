@@ -5,7 +5,7 @@
 # Author: Falana Tolu
 # September 26, 2019
 
-#run_analysis.R contains the R-code which when it is run on the data set will do the following:
+#"run_analysis.R" contains the R-code which when it is run on the data set will do the following:
   #1. Merges the training and the test sets to create one data set.
   #2. Extracts only the measurements on the mean and standard deviation for each measurement.
   #3. Uses descriptive activity names to name the activities in the data set

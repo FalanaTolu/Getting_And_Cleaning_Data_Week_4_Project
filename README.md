@@ -1,6 +1,6 @@
 #Getting and Cleaning Data Project
 
-This repository contains the R script and documentation for the Week 4 project in the Johns Hopkins University course Getting & Cleaning Data.
+This repository contains the R script and documentation for the Week 4 project in the Coursera Johns Hopkins University course Getting & Cleaning Data.
 
 ##Overview
 The purpose of this project is to demonstrate the ability to collect, work with, and clean a data set. The goal is to prepare tidy data that can be used for later analysis. A full description of the data used in this project can be found at 'The UCI Machine Learning Repository'(http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
